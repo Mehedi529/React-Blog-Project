@@ -1,3 +1,3 @@
 # React-Blog-Project
 
-This project helps you to create, update and delete blog post.
+This project helps us to create, update and delete blog post.
